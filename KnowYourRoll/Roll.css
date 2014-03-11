@@ -1,4 +1,11 @@
 body {
     background: url("http://media.steampowered.com/steamcommunity/public/images/avatars/f6/f6243fd00db3c21ffd63830ca895d6ce2af4f304_full.jpg");
     color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    vertical-align: middle;
     }
